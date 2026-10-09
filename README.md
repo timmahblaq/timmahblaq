@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Timmah Blaq 👋
 
-<!--
-**timmahblaq/timmahblaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Content Creator, Video Editor, Music Artist, & iOS Developer.
 
-Here are some ideas to get you started:
+Founder & Maintainer at **[@TBVisionaryOrg](https://github.com/TBVisionaryOrg)** — crafting open-source iOS tools, system utilities, and custom builds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+### 🚀 What I'm Up To
+* 📱 **iOS Utilities:** Maintaining custom builds for tools like LiveContainer & SideStore.
+* 🎵 **Music & Media:** Releasing original tracks, sound design, and media distribution workflows.
+* 🎬 **Content Creation:** Producing reaction videos, short-form skits, and tech media.
+
+***
+
+### ⚡ Tech Stack & Tools
+`iOS / Sideloading` · `Swift` · `System Configurations` · `Media & Audio Editing`
+
+***
+
+### 🌐 Connect With Me
+* **Linktree:** [linktr.ee/timmahblaq](https://linktr.ee/timmahblaq)
+* **Organization Hub:** [@TBVisionaryOrg](https://github.com/TBVisionaryOrg)
+* **Sponsor My Work:** [Support on GitHub Sponsors](https://github.com/sponsors/timmahblaq)
+
